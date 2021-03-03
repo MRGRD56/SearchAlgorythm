@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAlgorythm", "SearchAlgorythm\SearchAlgorythm.csproj", "{C580ABF2-2138-4B7C-AB50-26CD0F46FCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C580ABF2-2138-4B7C-AB50-26CD0F46FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C580ABF2-2138-4B7C-AB50-26CD0F46FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C580ABF2-2138-4B7C-AB50-26CD0F46FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C580ABF2-2138-4B7C-AB50-26CD0F46FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

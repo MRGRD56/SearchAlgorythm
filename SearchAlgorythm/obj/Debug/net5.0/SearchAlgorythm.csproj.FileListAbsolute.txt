@@ -1,0 +1,16 @@
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\SearchAlgorythm.exe
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\SearchAlgorythm.deps.json
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\SearchAlgorythm.runtimeconfig.json
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\SearchAlgorythm.runtimeconfig.dev.json
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\SearchAlgorythm.dll
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\ref\SearchAlgorythm.dll
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\bin\Debug\net5.0\SearchAlgorythm.pdb
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.csprojAssemblyReference.cache
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.AssemblyInfoInputs.cache
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.AssemblyInfo.cs
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.csproj.CoreCompileInputs.cache
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.dll
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\ref\SearchAlgorythm.dll
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.pdb
+C:\Users\SU\RiderProjects\SearchAlgorythm\SearchAlgorythm\obj\Debug\net5.0\SearchAlgorythm.genruntimeconfig.cache
